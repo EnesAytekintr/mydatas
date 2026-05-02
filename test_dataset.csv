@@ -1,0 +1,301 @@
+Customer_ID,Gender,Age,City,Education_Level,Occupation_Group,Annual_Income,Spending_Score,Product_Count,Last_Purchase,Payment_Method,Satisfaction,Coupon_Usage,Complaint_Count,Loyalty_Points,Categories
+1,Unspecified,54,Istanbul,Bachelor,Teacher,109937,98,29,2414.0,Bank Transfer,2,Yes,2,12.55,Category_13
+2,Male,56,Istanbul,Master,Freelancer,79908,93,15,2996.65,Cash,3,Yes,0,12.29,Category_18
+3,Unspecified,74,Antalya,Master,Engineer,100327,93,2,2685.38,Bank Transfer,4,Yes,1,30.78,Category_8
+4,Male,36,Istanbul,Bachelor,Other,129186,13,12,3183.83,Credit Card,3,Yes,,39.94,Category_24
+5,Female,50,Antalya,Master,Engineer,84763,37,38,4869.91,Bank Transfer,5,No,3,86.8,Category_16
+6,Unspecified,65,Antalya,Bachelor,Engineer,93119,71,45,3901.6,Credit Card,3,Yes,2,69.74,Category_4
+7,Unspecified,51,Antalya,Bachelor,Freelancer,141045,4,31,313.09,Credit Card,5,No,,25.33,Category_17
+8,Unspecified,18,Ankara,Master,Other,75431,52,33,1784.75,Credit Card,3,No,1,69.33,Category_20
+9,Female,18,Antalya,Master,Other,61940,67,50,2850.65,Bank Transfer,1,No,1,61.3,Category_7
+10,Female,44,Antalya,Bachelor,Freelancer,90361,1,35,2746.54,Credit Card,3,No,3,12.52,Category_8
+11,Female,29,Bursa,Master,Engineer,57006,71,17,259.05,Credit Card,1,Yes,0,50.77,Category_25
+12,Male,33,Izmir,High School,Other,69197,45,19,440.63,Cash,3,Yes,,34.56,Category_23
+13,Male,47,Izmir,Bachelor,Freelancer,59967,4,20,1994.13,Bank Transfer,2,No,0,32.81,Category_24
+14,Female,31,Bursa,Bachelor,Teacher,74540,3,26,817.66,Credit Card,2,No,,55.57,Category_14
+15,Female,71,Ankara,Master,Other,104093,29,34,3277.68,Bank Transfer,5,No,,66.79,Category_2
+16,Female,37,Ankara,High School,Teacher,85158,10,5,1620.78,Bank Transfer,2,No,3,32.71,Category_1
+17,Female,74,Istanbul,Master,Engineer,119747,59,11,4156.77,Credit Card,5,Yes,2,28.04,Category_4
+18,Unspecified,54,Antalya,Master,Engineer,109533,14,43,2011.3,Credit Card,4,Yes,1,65.09,Category_13
+19,Male,19,Ankara,High School,Sales,118838,18,22,2203.28,Bank Transfer,1,No,3,40.95,Category_22
+20,Female,49,Bursa,High School,Teacher,140088,6,6,751.78,Cash,5,Yes,1,78.32,Category_20
+21,Female,71,Izmir,Bachelor,Sales,89601,15,19,1252.43,Credit Card,4,Yes,3,59.61,Category_4
+22,Male,20,Antalya,High School,Freelancer,148299,19,9,1770.4,Credit Card,5,No,0,61.37,Category_8
+23,Female,23,Izmir,Bachelor,Sales,118983,69,8,2343.07,Bank Transfer,1,Yes,1,11.11,Category_22
+24,Unspecified,23,Antalya,High School,Teacher,69631,31,38,2162.97,Cash,4,Yes,,31.73,Category_24
+25,Unspecified,45,Antalya,Master,Sales,117117,33,46,2437.35,Cash,2,No,0,12.45,Category_10
+26,Female,56,Izmir,Bachelor,Freelancer,86062,52,5,414.54,Bank Transfer,5,No,0,32.51,Category_20
+27,Female,73,Antalya,Master,Sales,78958,24,35,1118.4,Cash,2,No,0,83.8,Category_3
+28,Male,23,Bursa,Master,Sales,74809,50,20,301.16,Cash,3,No,0,40.09,Category_18
+29,Female,55,Bursa,High School,Engineer,73856,3,16,2068.69,Bank Transfer,5,Yes,,16.76,Category_21
+30,Unspecified,36,Izmir,Bachelor,Freelancer,65208,13,33,3910.95,Bank Transfer,1,Yes,0,79.86,Category_5
+31,Male,37,Istanbul,Master,Other,123891,38,9,4479.42,Cash,5,Yes,1,83.89,Category_20
+32,Female,53,Ankara,High School,Sales,101706,69,11,337.94,Credit Card,2,No,0,71.39,Category_15
+33,Male,53,Izmir,Master,Freelancer,115524,59,1,2038.98,Bank Transfer,2,No,2,12.2,Category_21
+34,Male,54,Istanbul,High School,Sales,121031,18,38,713.13,Bank Transfer,3,No,3,46.1,Category_20
+35,Unspecified,32,Antalya,High School,Engineer,114297,41,33,4475.87,Bank Transfer,2,Yes,1,54.56,Category_16
+36,Unspecified,63,Antalya,Bachelor,Other,125122,94,42,1448.6,Credit Card,2,Yes,0,78.69,Category_21
+37,Male,28,Bursa,High School,Sales,84153,89,20,4260.06,Bank Transfer,2,No,3,17.65,Category_4
+38,Female,50,Bursa,Bachelor,Engineer,65418,33,28,1166.33,Credit Card,1,No,,45.42,Category_21
+39,Male,42,Bursa,High School,Other,140668,6,34,4907.98,Bank Transfer,1,No,,92.16,Category_5
+40,Female,71,Istanbul,Bachelor,Engineer,95115,56,26,907.3,Bank Transfer,4,Yes,3,91.8,Category_7
+41,Unspecified,45,Bursa,Master,Freelancer,60478,85,19,1460.59,Bank Transfer,5,Yes,0,57.55,Category_19
+42,Unspecified,19,Bursa,High School,Sales,72080,23,19,827.21,Cash,3,No,3,78.17,Category_22
+43,Male,68,Ankara,Master,Sales,109331,54,8,3868.43,Credit Card,4,Yes,1,82.95,Category_1
+44,Unspecified,54,Istanbul,Master,Sales,133331,98,47,4870.25,Cash,1,No,3,82.49,Category_14
+45,Female,61,Izmir,Master,Sales,45110,16,29,3618.04,Bank Transfer,3,No,1,80.48,Category_22
+46,Female,49,Istanbul,Master,Freelancer,95120,27,36,118.99,Bank Transfer,5,Yes,2,64.07,Category_17
+47,Male,65,Izmir,Master,Engineer,103902,80,43,2701.69,Bank Transfer,5,Yes,,45.02,Category_14
+48,Male,39,Bursa,Master,Teacher,109579,96,16,3237.74,Credit Card,3,Yes,2,74.92,Category_5
+49,Female,67,Antalya,Bachelor,Engineer,145597,10,50,3066.77,Bank Transfer,3,No,,58.98,Category_5
+50,Male,71,Izmir,Bachelor,Engineer,106224,66,3,1427.02,Cash,5,No,0,41.97,Category_22
+51,Male,19,Ankara,Master,Engineer,135498,12,26,3216.27,Bank Transfer,5,No,0,57.53,Category_8
+52,Male,35,Istanbul,High School,Other,131348,48,30,2606.44,Credit Card,1,Yes,1,68.78,Category_23
+53,Female,35,Izmir,Master,Engineer,96453,72,26,944.58,Bank Transfer,5,No,,30.01,Category_20
+54,Female,33,Istanbul,Master,Freelancer,86488,56,49,1317.29,Bank Transfer,2,Yes,,75.91,Category_19
+55,Male,55,Ankara,Master,Sales,105213,68,11,779.24,Cash,4,No,1,77.62,Category_8
+56,Unspecified,63,Ankara,Master,Sales,53942,14,15,2045.34,Bank Transfer,1,Yes,0,14.98,Category_20
+57,Unspecified,74,Ankara,Master,Teacher,109809,91,34,4093.06,Credit Card,4,No,,85.41,Category_4
+58,Female,62,Ankara,High School,Engineer,97390,30,32,2304.09,Cash,2,Yes,1,51.63,Category_19
+59,Male,31,Antalya,Master,Sales,88269,64,38,643.63,Cash,1,Yes,0,81.77,Category_16
+60,Male,74,Antalya,Master,Sales,70674,52,11,4412.15,Credit Card,2,Yes,0,44.85,Category_22
+61,Female,21,Bursa,Bachelor,Sales,62036,11,30,3295.55,Bank Transfer,1,Yes,3,15.48,Category_5
+62,Unspecified,35,Istanbul,Bachelor,Teacher,69918,4,32,3223.81,Credit Card,3,Yes,,50.28,Category_11
+63,Female,35,Izmir,Master,Engineer,77168,8,38,4682.31,Credit Card,2,No,2,64.48,Category_18
+64,Female,51,Istanbul,Bachelor,Other,99086,69,13,3587.08,Credit Card,4,Yes,,34.04,Category_20
+65,Female,66,Istanbul,Bachelor,Engineer,57657,20,4,4601.37,Bank Transfer,1,Yes,,18.21,Category_17
+66,Male,50,Izmir,High School,Sales,50258,17,35,262.61,Credit Card,2,No,,90.89,Category_15
+67,Unspecified,65,Bursa,Bachelor,Teacher,77769,42,6,1579.01,Bank Transfer,1,No,1,76.17,Category_9
+68,Male,69,Istanbul,Master,Sales,57328,55,16,2563.42,Cash,3,No,3,80.53,Category_19
+69,Male,24,Ankara,Master,Freelancer,113648,72,47,4235.63,Credit Card,5,Yes,1,76.89,Category_7
+70,Male,42,Bursa,Bachelor,Teacher,98674,45,9,2917.04,Cash,3,No,2,36.85,Category_12
+71,Male,38,Bursa,Master,Teacher,113960,16,10,1653.84,Credit Card,3,No,3,16.2,Category_9
+72,Male,47,Izmir,Master,Freelancer,55245,75,4,759.45,Credit Card,4,No,0,73.26,Category_24
+73,Male,41,Izmir,Bachelor,Sales,105892,77,22,2707.43,Cash,1,Yes,1,71.85,Category_19
+74,Unspecified,25,Ankara,Bachelor,Other,51567,13,35,3438.45,Credit Card,1,Yes,1,16.01,Category_19
+75,Female,59,Istanbul,High School,Engineer,129310,23,33,4322.99,Cash,5,No,2,73.93,Category_10
+76,Unspecified,75,Ankara,Master,Freelancer,75830,55,29,3410.44,Credit Card,2,No,,16.54,Category_9
+77,Male,30,Istanbul,Master,Other,145969,49,33,4392.75,Cash,4,No,0,41.66,Category_15
+78,Unspecified,30,Izmir,Master,Teacher,115880,16,20,2611.21,Credit Card,3,No,3,47.03,Category_17
+79,Male,56,Bursa,Bachelor,Freelancer,84571,17,33,2276.5,Cash,5,Yes,1,67.3,Category_14
+80,Female,60,Bursa,High School,Sales,100164,52,19,4688.96,Credit Card,1,Yes,0,86.17,Category_13
+81,Male,47,Izmir,Bachelor,Freelancer,145746,44,25,2335.13,Cash,4,No,0,47.37,Category_1
+82,Unspecified,70,Izmir,Bachelor,Engineer,122277,37,27,1363.81,Credit Card,3,No,,34.63,Category_11
+83,Male,31,Antalya,Bachelor,Freelancer,56976,9,9,1110.08,Cash,2,Yes,0,32.79,Category_16
+84,Unspecified,43,Ankara,High School,Teacher,101057,79,4,2793.02,Credit Card,4,No,0,95.15,Category_4
+85,Female,53,Antalya,Master,Teacher,79777,88,18,977.3,Credit Card,1,Yes,,67.98,Category_13
+86,Unspecified,60,Antalya,Bachelor,Other,110268,51,8,3069.95,Bank Transfer,1,Yes,2,65.23,Category_23
+87,Unspecified,28,Bursa,Bachelor,Freelancer,142409,69,19,4357.76,Credit Card,5,Yes,3,40.34,Category_16
+88,Unspecified,18,Izmir,Master,Sales,52397,70,41,2257.23,Cash,2,No,1,73.56,Category_14
+89,Unspecified,26,Izmir,High School,Freelancer,118511,81,39,4527.13,Cash,5,Yes,2,34.31,Category_16
+90,Female,37,Izmir,Bachelor,Engineer,110373,48,39,2405.69,Bank Transfer,2,Yes,,89.19,Category_23
+91,Male,52,Ankara,High School,Other,87730,68,45,761.83,Cash,3,No,2,39.7,Category_5
+92,Unspecified,62,Izmir,High School,Teacher,128265,69,45,345.15,Cash,1,Yes,3,27.95,Category_19
+93,Female,74,Izmir,Bachelor,Sales,45555,100,2,4126.45,Credit Card,2,Yes,,30.21,Category_22
+94,Female,73,Izmir,Bachelor,Other,139210,67,25,213.31,Bank Transfer,3,Yes,0,32.57,Category_25
+95,Unspecified,61,Bursa,High School,Sales,55141,12,47,4994.01,Bank Transfer,3,Yes,1,57.67,Category_12
+96,Unspecified,23,Ankara,Bachelor,Sales,139378,82,45,1286.1,Credit Card,3,No,0,56.37,Category_11
+97,Unspecified,40,Ankara,Master,Sales,98105,12,44,2925.56,Credit Card,5,No,3,47.68,Category_13
+98,Male,75,Ankara,Master,Sales,116974,18,4,3040.45,Cash,2,Yes,0,90.75,Category_9
+99,Female,19,Izmir,Master,Sales,114487,34,31,717.76,Credit Card,1,No,0,68.9,Category_18
+100,Male,52,Bursa,Master,Other,134730,75,2,3133.32,Bank Transfer,2,Yes,0,92.21,Category_5
+101,Female,74,Ankara,Bachelor,Sales,92853,38,11,862.46,Bank Transfer,4,No,0,97.9,Category_5
+102,Male,36,Bursa,High School,Other,46271,83,9,1959.58,Credit Card,1,No,0,80.13,Category_20
+103,Female,45,Izmir,Bachelor,Freelancer,98232,78,30,361.04,Bank Transfer,1,Yes,0,84.86,Category_19
+104,Unspecified,51,Bursa,Bachelor,Other,80507,73,42,1846.45,Bank Transfer,2,Yes,0,60.61,Category_12
+105,Unspecified,25,Istanbul,Master,Sales,100364,94,23,1342.1,Credit Card,1,No,2,43.87,Category_10
+106,Male,46,Ankara,Master,Other,113025,19,4,1773.34,Cash,5,Yes,3,67.85,Category_16
+107,Male,66,Istanbul,Master,Teacher,107948,27,25,3194.85,Cash,4,Yes,0,32.35,Category_11
+108,Female,33,Antalya,Master,Freelancer,93437,64,42,3888.46,Credit Card,2,No,2,45.9,Category_4
+109,Female,49,Izmir,High School,Engineer,46565,49,27,633.97,Cash,1,Yes,2,78.95,Category_22
+110,Female,69,Izmir,High School,Engineer,113760,14,17,192.06,Bank Transfer,2,No,0,58.97,Category_8
+111,Male,28,Ankara,Bachelor,Engineer,54968,100,35,4683.6,Cash,2,No,3,11.94,Category_7
+112,Male,33,Istanbul,Master,Engineer,136790,65,45,3098.15,Credit Card,1,Yes,2,80.15,Category_4
+113,Female,59,Istanbul,Bachelor,Teacher,118395,13,42,4093.52,Cash,5,Yes,0,11.88,Category_10
+114,Male,35,Antalya,High School,Other,62458,72,46,4150.95,Credit Card,4,No,3,25.09,Category_13
+115,Female,42,Ankara,Bachelor,Sales,92184,20,17,2877.68,Cash,5,Yes,,42.45,Category_5
+116,Male,34,Izmir,Bachelor,Freelancer,81586,73,30,165.99,Cash,3,Yes,0,16.34,Category_19
+117,Female,57,Ankara,Master,Freelancer,138861,31,37,782.05,Bank Transfer,4,Yes,0,66.29,Category_3
+118,Unspecified,68,Istanbul,High School,Freelancer,95151,54,44,773.53,Credit Card,2,Yes,0,86.49,Category_5
+119,Male,30,Antalya,Bachelor,Engineer,74504,39,46,804.63,Bank Transfer,5,No,0,56.29,Category_10
+120,Unspecified,63,Antalya,High School,Sales,149928,80,38,604.89,Bank Transfer,4,No,3,15.24,Category_11
+121,Unspecified,69,Ankara,Master,Teacher,59747,56,41,2973.85,Credit Card,2,No,0,92.09,Category_23
+122,Unspecified,70,Antalya,Master,Other,62557,92,38,1347.56,Cash,1,Yes,3,44.02,Category_16
+123,Female,57,Ankara,Bachelor,Teacher,128680,22,43,3385.93,Credit Card,5,Yes,2,97.1,Category_25
+124,Female,44,Antalya,Bachelor,Freelancer,57809,86,9,1014.6,Cash,4,Yes,2,29.29,Category_24
+125,Female,70,Izmir,High School,Teacher,55107,87,48,309.03,Bank Transfer,4,Yes,0,63.58,Category_7
+126,Female,42,Bursa,Bachelor,Engineer,75502,47,43,4399.72,Cash,3,Yes,2,13.98,Category_20
+127,Unspecified,75,Ankara,Bachelor,Freelancer,50643,75,33,417.89,Credit Card,4,Yes,2,81.7,Category_19
+128,Female,37,Antalya,Bachelor,Sales,106686,7,36,4743.49,Bank Transfer,1,No,1,62.98,Category_11
+129,Unspecified,56,Bursa,Master,Sales,53633,78,50,1868.81,Bank Transfer,5,Yes,3,62.36,Category_2
+130,Female,51,Istanbul,High School,Sales,89131,48,49,2799.33,Credit Card,3,Yes,2,90.66,Category_3
+131,Female,46,Izmir,Master,Other,45446,21,21,1868.17,Cash,5,Yes,3,19.71,Category_11
+132,Female,44,Izmir,Bachelor,Sales,124801,48,3,3583.63,Credit Card,2,No,2,59.53,Category_19
+133,Female,23,Istanbul,Master,Engineer,80034,53,6,718.75,Credit Card,3,Yes,0,18.89,Category_24
+134,Male,21,Bursa,Bachelor,Engineer,116259,10,36,1645.75,Bank Transfer,5,Yes,0,49.8,Category_12
+135,Female,20,Istanbul,Bachelor,Freelancer,143275,21,36,299.07,Credit Card,5,No,0,97.57,Category_7
+136,Unspecified,25,Bursa,High School,Other,111353,16,47,1406.32,Cash,1,No,2,40.14,Category_20
+137,Female,40,Ankara,Master,Teacher,46828,63,3,905.51,Credit Card,1,Yes,0,78.82,Category_3
+138,Female,70,Ankara,High School,Other,71247,27,29,1514.94,Bank Transfer,5,No,1,45.28,Category_21
+139,Unspecified,30,Bursa,High School,Engineer,134704,80,20,4781.56,Credit Card,4,No,1,12.09,Category_1
+140,Unspecified,60,Bursa,Master,Other,101684,91,38,1783.65,Cash,4,Yes,,56.28,Category_16
+141,Female,54,Bursa,Master,Freelancer,123638,88,48,2920.96,Bank Transfer,5,No,0,84.89,Category_22
+142,Female,37,Bursa,Bachelor,Other,115740,34,17,1620.19,Credit Card,1,No,2,90.27,Category_8
+143,Female,46,Ankara,Master,Freelancer,88986,90,41,809.69,Bank Transfer,1,Yes,1,88.44,Category_1
+144,Male,66,Bursa,Master,Teacher,85165,49,1,1689.94,Bank Transfer,5,Yes,0,74.49,Category_11
+145,Unspecified,60,Istanbul,High School,Sales,98695,78,22,1239.6,Credit Card,2,No,1,36.44,Category_14
+146,Female,47,Istanbul,High School,Freelancer,75357,78,3,3125.9,Credit Card,2,Yes,,45.52,Category_7
+147,Female,27,Izmir,Master,Sales,45191,92,46,3468.41,Bank Transfer,4,Yes,,23.17,Category_12
+148,Male,53,Izmir,Master,Freelancer,86626,78,8,2959.7,Bank Transfer,5,No,2,11.02,Category_10
+149,Unspecified,58,Antalya,High School,Other,73910,78,48,3252.35,Bank Transfer,4,No,0,14.88,Category_20
+150,Female,50,Bursa,High School,Engineer,83280,7,5,1169.4,Credit Card,1,No,,74.42,Category_1
+151,Unspecified,21,Istanbul,High School,Other,89450,43,2,3096.44,Credit Card,2,No,0,33.96,Category_19
+152,Female,51,Izmir,High School,Engineer,72623,51,4,1269.1,Credit Card,4,Yes,1,39.4,Category_4
+153,Unspecified,54,Ankara,Master,Teacher,144809,24,14,1201.98,Bank Transfer,1,Yes,1,89.02,Category_5
+154,Unspecified,71,Antalya,High School,Engineer,50650,96,19,4812.74,Cash,5,Yes,2,28.02,Category_8
+155,Female,29,Istanbul,High School,Engineer,52083,96,47,668.08,Credit Card,2,No,,32.69,Category_14
+156,Unspecified,64,Istanbul,Master,Sales,145265,25,21,1814.63,Bank Transfer,5,No,,44.79,Category_14
+157,Unspecified,71,Antalya,Bachelor,Engineer,124288,84,8,1274.61,Bank Transfer,3,No,1,77.93,Category_12
+158,Male,47,Izmir,Bachelor,Sales,96911,61,33,183.84,Cash,3,Yes,1,61.01,Category_18
+159,Female,64,Ankara,High School,Freelancer,129527,81,10,762.44,Cash,5,No,0,42.04,Category_11
+160,Unspecified,35,Antalya,Bachelor,Teacher,101145,20,36,1830.98,Bank Transfer,1,Yes,,38.43,Category_22
+161,Unspecified,48,Bursa,High School,Teacher,140177,25,42,1844.39,Bank Transfer,5,No,3,66.43,Category_22
+162,Male,39,Istanbul,High School,Freelancer,49276,35,40,3586.86,Cash,1,Yes,1,39.44,Category_13
+163,Unspecified,41,Istanbul,High School,Sales,136452,73,1,1057.14,Cash,2,No,3,90.13,Category_5
+164,Unspecified,32,Istanbul,Bachelor,Other,111937,66,35,3041.31,Credit Card,4,No,3,56.06,Category_6
+165,Female,73,Izmir,High School,Freelancer,54720,36,14,1221.8,Cash,2,Yes,0,24.72,Category_12
+166,Unspecified,21,Izmir,High School,Other,76106,87,45,4350.0,Cash,4,Yes,3,40.82,Category_19
+167,Female,71,Istanbul,High School,Sales,107962,71,3,4516.15,Bank Transfer,4,No,0,53.94,Category_17
+168,Male,60,Bursa,Master,Sales,124312,41,37,539.03,Bank Transfer,4,Yes,1,15.66,Category_22
+169,Female,72,Izmir,High School,Engineer,87921,29,21,1386.24,Bank Transfer,3,No,2,95.57,Category_10
+170,Unspecified,58,Izmir,High School,Teacher,101549,56,40,1165.28,Bank Transfer,5,No,3,35.32,Category_9
+171,Female,29,Izmir,High School,Sales,57399,51,23,2659.45,Credit Card,2,No,2,23.5,Category_16
+172,Female,33,Istanbul,Master,Engineer,55353,95,5,288.78,Credit Card,4,No,,39.45,Category_17
+173,Unspecified,54,Antalya,Bachelor,Teacher,95594,71,47,2854.9,Credit Card,4,Yes,3,62.98,Category_2
+174,Female,41,Izmir,Bachelor,Engineer,135136,83,43,2778.6,Cash,4,No,0,24.52,Category_15
+175,Unspecified,41,Bursa,Bachelor,Engineer,119549,63,31,141.05,Cash,5,Yes,2,68.9,Category_17
+176,Unspecified,43,Antalya,High School,Sales,79350,18,11,1716.73,Cash,5,No,0,59.89,Category_14
+177,Male,47,Bursa,Master,Sales,67253,67,40,2585.69,Bank Transfer,5,Yes,1,70.61,Category_22
+178,Unspecified,70,Izmir,High School,Freelancer,94809,92,42,2612.72,Cash,5,No,2,83.34,Category_15
+179,Male,71,Ankara,High School,Teacher,139635,14,7,2737.39,Cash,4,No,0,52.75,Category_17
+180,Female,20,Bursa,High School,Other,103977,63,25,1524.58,Bank Transfer,2,No,0,88.97,Category_1
+181,Female,21,Istanbul,Master,Engineer,103413,41,29,1742.95,Credit Card,1,No,0,77.24,Category_9
+182,Male,47,Izmir,Master,Teacher,66520,52,35,4342.36,Credit Card,4,Yes,1,23.14,Category_5
+183,Female,30,Ankara,High School,Freelancer,130143,20,7,3525.89,Bank Transfer,1,No,0,99.04,Category_18
+184,Male,35,Antalya,High School,Freelancer,108847,92,29,1578.22,Credit Card,3,No,1,86.43,Category_10
+185,Unspecified,24,Antalya,High School,Freelancer,65097,59,7,2736.76,Credit Card,3,No,2,95.63,Category_18
+186,Female,39,Bursa,Bachelor,Other,122632,60,21,2473.72,Bank Transfer,5,Yes,0,31.69,Category_7
+187,Female,33,Istanbul,Bachelor,Other,144578,8,22,2156.78,Cash,3,No,1,64.02,Category_22
+188,Male,31,Izmir,High School,Sales,97093,90,25,3382.13,Cash,1,No,,91.17,Category_12
+189,Female,68,Bursa,High School,Engineer,53635,79,21,1984.99,Credit Card,3,Yes,2,10.36,Category_12
+190,Unspecified,69,Antalya,High School,Teacher,114941,94,12,3791.99,Cash,4,No,1,58.8,Category_21
+191,Female,51,Izmir,High School,Engineer,65759,22,35,886.55,Cash,1,No,3,56.99,Category_14
+192,Unspecified,72,Izmir,Master,Sales,122944,18,2,1857.27,Cash,2,Yes,,54.73,Category_16
+193,Unspecified,59,Istanbul,High School,Other,106457,73,10,1124.29,Credit Card,2,No,,41.37,Category_3
+194,Male,48,Istanbul,Master,Freelancer,70822,93,16,1110.07,Cash,3,Yes,1,83.77,Category_7
+195,Unspecified,69,Istanbul,High School,Freelancer,88496,14,29,3621.29,Credit Card,5,No,,35.26,Category_14
+196,Male,59,Izmir,Bachelor,Freelancer,102173,48,36,4622.06,Cash,1,Yes,0,31.6,Category_8
+197,Female,43,Antalya,Master,Freelancer,119416,13,4,944.35,Credit Card,1,Yes,2,86.9,Category_9
+198,Male,26,Ankara,Master,Sales,99359,100,22,2966.34,Cash,5,No,0,71.99,Category_17
+199,Male,55,Istanbul,Bachelor,Teacher,77170,82,41,710.27,Cash,1,No,0,23.54,Category_1
+200,Male,58,Istanbul,Bachelor,Teacher,143331,76,28,550.1,Credit Card,5,Yes,0,58.48,Category_22
+201,Female,43,Bursa,Master,Freelancer,76692,67,25,2440.2,Credit Card,3,No,0,16.05,Category_19
+202,Female,73,Izmir,High School,Teacher,91519,14,13,644.34,Credit Card,5,Yes,0,56.11,Category_8
+203,Unspecified,37,Antalya,Master,Teacher,120166,55,36,1561.33,Credit Card,1,Yes,1,91.8,Category_16
+204,Male,32,Izmir,Bachelor,Freelancer,102885,69,4,1417.52,Cash,4,No,1,62.67,Category_6
+205,Male,50,Antalya,Master,Freelancer,134816,72,39,2052.34,Credit Card,2,No,0,15.69,Category_5
+206,Male,70,Istanbul,Bachelor,Sales,85542,70,20,778.84,Credit Card,2,No,0,50.12,Category_24
+207,Female,38,Bursa,Bachelor,Engineer,138191,2,35,1087.36,Bank Transfer,5,Yes,2,35.5,Category_21
+208,Male,64,Bursa,Master,Teacher,119146,52,8,579.61,Bank Transfer,5,No,0,64.99,Category_17
+209,Male,55,Istanbul,High School,Engineer,52280,79,8,4051.12,Cash,5,No,0,24.57,Category_5
+210,Unspecified,73,Ankara,High School,Other,91253,89,37,2233.0,Credit Card,2,No,3,83.11,Category_3
+211,Female,34,Istanbul,High School,Freelancer,125074,37,31,2167.38,Cash,2,Yes,,13.06,Category_21
+212,Male,72,Antalya,Bachelor,Sales,112061,19,12,3967.01,Cash,1,No,0,88.09,Category_11
+213,Unspecified,32,Izmir,High School,Other,94995,14,31,3455.12,Credit Card,1,No,1,33.63,Category_23
+214,Male,75,Ankara,High School,Freelancer,131857,5,50,1974.51,Credit Card,1,Yes,0,87.14,Category_21
+215,Unspecified,74,Izmir,Master,Other,102167,26,34,1736.36,Cash,2,No,3,20.43,Category_16
+216,Male,63,Bursa,Master,Other,101780,52,36,4861.88,Cash,4,Yes,2,21.45,Category_10
+217,Male,57,Antalya,Master,Teacher,71419,77,18,2446.04,Bank Transfer,3,Yes,1,80.44,Category_5
+218,Female,63,Bursa,Bachelor,Teacher,118600,85,47,4561.05,Bank Transfer,4,No,0,35.57,Category_3
+219,Male,63,Antalya,High School,Freelancer,121377,93,9,3898.2,Credit Card,4,No,0,55.85,Category_13
+220,Unspecified,44,Bursa,High School,Engineer,133179,6,30,510.56,Credit Card,1,No,0,16.15,Category_2
+221,Female,37,Izmir,Bachelor,Teacher,115444,61,40,1852.11,Bank Transfer,2,No,3,32.49,Category_20
+222,Unspecified,33,Ankara,Bachelor,Sales,115294,42,46,1578.8,Cash,4,No,,80.64,Category_5
+223,Unspecified,73,Ankara,High School,Sales,97259,26,9,908.46,Credit Card,5,Yes,1,44.75,Category_23
+224,Unspecified,28,Istanbul,Bachelor,Engineer,97523,15,45,4492.8,Cash,3,No,1,17.51,Category_3
+225,Unspecified,25,Bursa,Bachelor,Other,105080,2,39,4769.5,Bank Transfer,4,Yes,0,11.4,Category_10
+226,Unspecified,51,Bursa,Bachelor,Sales,79618,45,18,1508.7,Cash,1,No,0,28.57,Category_11
+227,Male,60,Izmir,High School,Engineer,133210,15,13,247.62,Credit Card,2,Yes,2,98.01,Category_1
+228,Female,32,Antalya,High School,Other,46158,29,9,407.26,Cash,3,Yes,3,58.52,Category_7
+229,Male,18,Bursa,Bachelor,Sales,78939,70,25,4381.46,Credit Card,5,No,1,17.97,Category_25
+230,Male,54,Antalya,High School,Other,72298,68,2,2634.16,Bank Transfer,2,Yes,1,45.72,Category_14
+231,Female,71,Bursa,Bachelor,Other,147865,9,45,268.65,Credit Card,4,No,3,34.44,Category_2
+232,Unspecified,30,Izmir,Master,Freelancer,84265,67,2,4669.64,Bank Transfer,2,Yes,0,17.91,Category_16
+233,Unspecified,21,Antalya,Bachelor,Teacher,64787,13,3,3569.76,Bank Transfer,4,Yes,0,60.97,Category_22
+234,Unspecified,73,Antalya,High School,Teacher,61658,44,33,2426.71,Credit Card,3,No,3,32.33,Category_15
+235,Male,43,Izmir,Bachelor,Other,74993,49,40,4340.02,Cash,5,No,0,12.32,Category_19
+236,Male,21,Antalya,High School,Engineer,104592,45,33,547.43,Bank Transfer,1,No,3,57.16,Category_20
+237,Male,26,Bursa,High School,Freelancer,135107,40,46,2269.59,Cash,4,No,0,96.44,Category_9
+238,Unspecified,36,Izmir,High School,Other,56070,42,41,2620.97,Cash,2,No,,17.29,Category_15
+239,Male,43,Antalya,Master,Freelancer,132109,85,7,2857.2,Credit Card,1,Yes,0,11.69,Category_2
+240,Male,37,Ankara,Master,Freelancer,125987,92,44,1753.22,Bank Transfer,3,Yes,0,41.12,Category_23
+241,Unspecified,19,Antalya,Master,Engineer,96603,20,12,1236.69,Bank Transfer,1,Yes,1,10.42,Category_18
+242,Female,51,Ankara,High School,Freelancer,74112,33,44,2643.71,Bank Transfer,2,Yes,3,85.89,Category_13
+243,Male,43,Bursa,Bachelor,Sales,103022,44,37,4635.19,Cash,4,No,0,90.76,Category_6
+244,Female,50,Bursa,Master,Other,126655,23,18,4954.51,Credit Card,4,No,1,94.26,Category_15
+245,Male,53,Antalya,Bachelor,Engineer,92032,70,35,4078.69,Credit Card,5,Yes,1,11.81,Category_22
+246,Unspecified,34,Antalya,High School,Sales,145926,76,17,2504.18,Cash,4,Yes,0,23.69,Category_13
+247,Unspecified,29,Istanbul,High School,Freelancer,116985,94,42,2394.68,Cash,1,No,0,57.64,Category_24
+248,Female,31,Izmir,Master,Freelancer,59487,44,21,4380.35,Credit Card,4,No,0,30.63,Category_24
+249,Male,53,Izmir,Bachelor,Freelancer,137953,94,48,2235.57,Bank Transfer,2,Yes,0,39.73,Category_12
+250,Male,22,Bursa,Bachelor,Other,68214,19,49,3624.77,Credit Card,1,Yes,2,95.2,Category_8
+251,Male,57,Bursa,Master,Engineer,146325,27,20,941.36,Credit Card,2,No,2,54.02,Category_23
+252,Unspecified,52,Istanbul,High School,Sales,77609,20,14,4557.37,Bank Transfer,5,No,2,63.7,Category_11
+253,Male,75,Izmir,High School,Other,125071,8,50,782.32,Credit Card,4,Yes,0,10.73,Category_1
+254,Unspecified,35,Ankara,Master,Freelancer,97724,92,35,2605.1,Credit Card,3,No,0,73.7,Category_15
+255,Unspecified,22,Izmir,High School,Other,48479,81,46,1954.94,Cash,3,No,,87.78,Category_1
+256,Female,57,Antalya,Bachelor,Other,46315,98,35,1647.22,Credit Card,4,Yes,3,83.17,Category_15
+257,Female,62,Istanbul,Bachelor,Freelancer,141436,16,37,4972.76,Cash,1,No,1,25.8,Category_24
+258,Unspecified,27,Izmir,Master,Other,98862,83,11,3963.92,Bank Transfer,3,No,,71.14,Category_25
+259,Male,52,Bursa,Bachelor,Engineer,87466,22,30,2026.3,Credit Card,2,Yes,3,62.95,Category_20
+260,Male,34,Antalya,Bachelor,Teacher,127085,95,19,881.98,Credit Card,3,No,1,21.24,Category_1
+261,Unspecified,71,Istanbul,Bachelor,Engineer,106056,31,16,303.47,Cash,1,Yes,,13.37,Category_22
+262,Unspecified,20,Izmir,Bachelor,Engineer,90456,15,4,4228.86,Bank Transfer,5,Yes,0,58.27,Category_16
+263,Unspecified,40,Bursa,Bachelor,Other,148727,73,43,939.74,Credit Card,1,Yes,0,82.74,Category_10
+264,Unspecified,46,Istanbul,High School,Teacher,142273,36,36,1594.47,Credit Card,3,No,2,20.55,Category_21
+265,Unspecified,37,Ankara,Master,Other,142671,4,24,4371.91,Bank Transfer,1,No,,23.98,Category_4
+266,Male,34,Ankara,Bachelor,Other,63464,72,15,4706.85,Cash,2,No,1,67.7,Category_14
+267,Female,39,Antalya,Master,Freelancer,59671,33,4,2684.09,Credit Card,5,No,0,97.93,Category_8
+268,Female,33,Antalya,Bachelor,Sales,45196,63,50,2583.36,Bank Transfer,4,Yes,3,81.96,Category_9
+269,Unspecified,32,Istanbul,Bachelor,Freelancer,63639,15,43,2254.11,Credit Card,2,Yes,0,34.53,Category_23
+270,Male,40,Izmir,Master,Engineer,49067,29,17,4624.06,Credit Card,5,Yes,1,11.51,Category_6
+271,Female,30,Izmir,Master,Engineer,54576,55,45,1908.32,Bank Transfer,2,Yes,0,93.96,Category_11
+272,Female,39,Antalya,Bachelor,Other,148455,89,17,4731.68,Credit Card,3,No,3,16.75,Category_14
+273,Unspecified,57,Antalya,Bachelor,Sales,138979,4,7,3014.1,Cash,2,Yes,3,49.54,Category_10
+274,Male,43,Bursa,High School,Teacher,97017,20,47,2976.46,Bank Transfer,4,No,0,46.91,Category_21
+275,Unspecified,75,Antalya,High School,Sales,118074,100,3,4316.74,Bank Transfer,2,No,,56.29,Category_16
+276,Unspecified,45,Izmir,Master,Sales,72643,36,3,1621.91,Credit Card,3,No,1,33.78,Category_10
+277,Male,69,Izmir,High School,Sales,95759,87,29,4709.61,Bank Transfer,2,No,0,18.35,Category_7
+278,Male,21,Bursa,Master,Sales,50263,54,7,4783.44,Credit Card,3,Yes,0,40.99,Category_20
+279,Male,51,Antalya,Master,Engineer,113199,11,3,1741.11,Credit Card,4,Yes,0,90.33,Category_24
+280,Male,69,Bursa,High School,Freelancer,82918,81,11,315.33,Bank Transfer,4,Yes,2,35.91,Category_2
+281,Unspecified,39,Antalya,Master,Other,108822,77,14,2939.53,Credit Card,1,No,,46.42,Category_21
+282,Unspecified,67,Ankara,Master,Freelancer,54466,82,27,3424.71,Cash,3,Yes,1,12.93,Category_25
+283,Unspecified,29,Bursa,Bachelor,Freelancer,136003,56,20,591.7,Cash,4,Yes,1,59.39,Category_5
+284,Unspecified,61,Antalya,Master,Teacher,119339,65,20,113.39,Bank Transfer,3,Yes,1,24.58,Category_23
+285,Unspecified,22,Ankara,Master,Other,128993,49,34,2877.15,Cash,2,No,,11.61,Category_1
+286,Female,44,Bursa,High School,Teacher,141920,100,26,3300.39,Cash,2,Yes,0,65.03,Category_18
+287,Female,39,Izmir,High School,Other,123096,33,25,1312.29,Bank Transfer,5,No,,23.24,Category_21
+288,Male,41,Bursa,Master,Sales,110572,83,15,3886.71,Cash,5,Yes,0,29.67,Category_6
+289,Female,38,Ankara,High School,Teacher,124756,29,25,1382.58,Cash,3,No,0,79.12,Category_5
+290,Female,49,Antalya,Bachelor,Sales,98175,100,23,3125.34,Bank Transfer,3,No,2,65.6,Category_19
+291,Male,27,Antalya,High School,Teacher,79106,10,50,2518.77,Bank Transfer,3,Yes,1,40.34,Category_1
+292,Female,61,Bursa,Bachelor,Freelancer,101540,55,49,1896.48,Credit Card,4,Yes,,48.93,Category_13
+293,Male,74,Istanbul,High School,Engineer,137536,44,24,2885.33,Credit Card,4,Yes,2,14.67,Category_20
+294,Unspecified,25,Ankara,Master,Freelancer,95286,23,44,752.08,Credit Card,1,No,1,55.52,Category_25
+295,Unspecified,42,Antalya,Master,Engineer,49899,65,13,3431.36,Cash,1,No,3,11.18,Category_12
+296,Male,71,Ankara,High School,Sales,131052,87,10,724.41,Credit Card,2,No,1,78.88,Category_5
+297,Unspecified,75,Ankara,High School,Other,99624,28,26,2751.25,Bank Transfer,2,Yes,2,31.85,Category_3
+298,Female,27,Ankara,High School,Other,125450,90,10,2786.78,Cash,5,No,0,41.99,Category_9
+299,Unspecified,60,Bursa,Bachelor,Freelancer,147690,72,37,3580.32,Cash,2,Yes,2,76.74,Category_12
+300,Unspecified,46,Bursa,Bachelor,Sales,132773,73,12,356.41,Cash,3,No,0,69.69,Category_15
